@@ -1,0 +1,14 @@
+C:\Visual Studio AOL\1\FatimaAlBasharC1\bin\Debug\net8.0\FatimaAlBasharC1.exe
+C:\Visual Studio AOL\1\FatimaAlBasharC1\bin\Debug\net8.0\FatimaAlBasharC1.deps.json
+C:\Visual Studio AOL\1\FatimaAlBasharC1\bin\Debug\net8.0\FatimaAlBasharC1.runtimeconfig.json
+C:\Visual Studio AOL\1\FatimaAlBasharC1\bin\Debug\net8.0\FatimaAlBasharC1.dll
+C:\Visual Studio AOL\1\FatimaAlBasharC1\bin\Debug\net8.0\FatimaAlBasharC1.pdb
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.AssemblyInfo.cs
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.dll
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\refint\FatimaAlBasharC1.dll
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.pdb
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\FatimaAlBasharC1.genruntimeconfig.cache
+C:\Visual Studio AOL\1\FatimaAlBasharC1\obj\Debug\net8.0\ref\FatimaAlBasharC1.dll
